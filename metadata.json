@@ -1,0 +1,6 @@
+{
+  "name": "My App",
+  "description": "Professional Blogger Studio & Admin Panel Android App with Live Preview, Gemini AI, and Modular Post Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

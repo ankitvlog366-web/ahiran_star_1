@@ -1,0 +1,11 @@
+{
+  "appId": "com.ankit.app",
+  "appName": "My App",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}

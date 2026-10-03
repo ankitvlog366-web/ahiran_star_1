@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Android Studio and Capacitor compatible app project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building web assets... done'",
+    "build:apk": "./gradlew assembleDebug",
+    "build:release": "./gradlew assembleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  },
+  "keywords": ["android", "apk", "capacitor"],
+  "author": "Ankit",
+  "license": "MIT"
+}
